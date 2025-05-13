@@ -1,5 +1,5 @@
 # Journal Club Git Turorial
-
+hi
 Below, you will find the basic commands and steps to:
 
 1. Set an **initial configuration** on your local git installation.
